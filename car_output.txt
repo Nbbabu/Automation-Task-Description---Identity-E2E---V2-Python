@@ -1,0 +1,5 @@
+reg_number, make_model, year
+AD58 VNF, BMW 120D M Sport, 2008
+BW57 BOF, Toyota Yaris T2, 2008
+KT17 DLX, Skoda Superb Sportline TDI S-A, 2017
+SG18 HTN, Volkswagen Golf SE Navigation TSI EVO, 2018
